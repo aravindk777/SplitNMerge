@@ -1,0 +1,10 @@
+<svg width="503" height="312" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <path id="svg_12" d="m2.5,27.5c0,-13.58447 11.41553,-25 25,-25l448,0c13.58447,0 25,11.41553 25,25l0,257c0,13.58447 -11.41553,25 -25,25l-448,0c-13.58447,0 -25,-11.41553 -25,-25l0,-257z" opacity="undefined" stroke-dasharray="2,2" stroke-width="5" stroke="#000" fill="#B1FFFF"/>
+  <line stroke-width="5" stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" y2="139.5" x2="467.5" y1="140.5" x1="90.5" fill="none"/>
+  <path id="svg_3" d="m407.5,60.5l57,78" opacity="undefined" stroke-linecap="undefined" stroke-linejoin="undefined" stroke-width="5" stroke="#000" fill="#845335"/>
+  <text transform="matrix(2.37802 0 0 4.5201 -433.879 -1054.65)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_4" y="258.21735" x="213.96901" stroke-width="0" fill="#273141">Split-N-Merge</text>
+  <path transform="rotate(-44.1145 120.648 196.339)" stroke="#000" id="svg_7" d="m160.64777,156.8981l-37.33123,39.44298l37.33123,39.44294l-21.33441,22.55469l-58.6656,-61.99762l58.6656,-62.00236" stroke-width="5" fill="#4B252D"/>
+ </g>
+</svg>
